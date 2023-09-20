@@ -1,0 +1,47 @@
+.body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    background-color: #1c437e;
+   
+  }
+  
+  .container {
+    width: 350px; 
+    height: 500px; 
+    
+    font-size: 20px;
+    color: white;
+    margin-top: 230px;
+  }
+  form input{
+    margin-bottom: 20px;
+    margin-top: 10px;
+    height: 30px;
+    background-color:  #1c437e;
+    border-color: white;
+    width: 200px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+  }
+  form label{
+    text-align: center;
+  }
+  
+  button{
+    background-color: #1c437e;;
+    color:WHITE;
+    width: 150px;
+    height: 50px;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+
+  }
+  
+  
+  
